@@ -1,0 +1,15 @@
+{
+    "name": "script-and-shift",
+    "version": "1.0.0",
+    "description": "Script&Shift: A Layered Interface Paradigm for LLM Writing",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "engines": {
+      "node": "18.x"
+    },
+    "dependencies": {
+      "express": "^4.18.2"
+    }
+  }
